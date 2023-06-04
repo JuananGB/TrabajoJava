@@ -1,0 +1,14 @@
+ID Cliente: 33
+Marca: Dodge
+Modelo: Charger Daytona
+Agno: 1969
+Color: Azul
+Matricula: MNO345
+Kilometraje: 4000.0
+Precio: 33333.0
+Capacidad de Pasajeros: 5
+Tipo de Gasolina: Gasolina
+Transmision: Automática
+Numero de Puertas: 4
+Motor: V8 HEMI
+Estado del Vehiculo: Nuevo

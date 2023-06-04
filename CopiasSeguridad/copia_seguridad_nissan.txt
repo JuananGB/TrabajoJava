@@ -1,0 +1,14 @@
+ID Cliente: 55
+Marca: Nissan
+Modelo: Skyline GTR R34
+Agno: 1999
+Color: Azul
+Matricula: XYZ789
+Kilometraje: 5000.0
+Precio: 50000.0
+Capacidad de Pasajeros: 2
+Tipo de Gasolina: Gasolina
+Transmision: Manual
+Numero de Puertas: 2
+Motor: RB26DETT
+Estado del Vehiculo: Nuevo

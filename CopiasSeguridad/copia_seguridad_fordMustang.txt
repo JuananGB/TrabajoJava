@@ -1,0 +1,14 @@
+ID Cliente: 21
+Marca: Ford
+Modelo: Mustang
+Agno: 2022
+Color: Rojo
+Matricula: ABC123
+Kilometraje: 1000.0
+Precio: 64500.0
+Capacidad de Pasajeros: 4
+Tipo de Gasolina: Gasolina
+Transmision: Automática
+Numero de Puertas: 2
+Motor: V8
+Estado del Vehiculo: Nuevo

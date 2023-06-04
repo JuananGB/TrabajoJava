@@ -1,0 +1,14 @@
+ID Cliente: 21
+Marca: Toyota
+Modelo: Supra
+Agno: 2023
+Color: Naranja
+Matricula: DEF456
+Kilometraje: 2000.0
+Precio: 70150.0
+Capacidad de Pasajeros: 2
+Tipo de Gasolina: Gasolina
+Transmision: Automática
+Numero de Puertas: 2
+Motor: Inline-6
+Estado del Vehiculo: Nuevo
