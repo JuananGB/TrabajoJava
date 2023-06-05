@@ -1,0 +1,14 @@
+ID Cliente: 2
+Marca: Dodge
+Modelo: Charger R/T
+Agno: 1970
+Color: Negro
+Matricula: JKL012
+Kilometraje: 3000.0
+Precio: 100000.0
+Capacidad de Pasajeros: 5
+Tipo de Gasolina: Gasolina
+Transmision: Automática
+Numero de Puertas: 4
+Motor: V8 HEMI
+Estado del Vehiculo: Nuevo

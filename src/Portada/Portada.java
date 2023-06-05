@@ -124,19 +124,20 @@ class Ventana extends JFrame {
                 panelRegistro.setBackground(new Color(153, 153, 153));
                 panelRegistro.setLayout(null);
                 ventanaRegistro.add(panelRegistro);
-
+              /*
                 etiquetaCodigoUsuario = new JLabel();
                 etiquetaCodigoUsuario.setBounds(30, 30, 200, 30);
                 etiquetaCodigoUsuario.setText("Código de Usuario:");
                 etiquetaCodigoUsuario.setForeground(Color.WHITE);
                 etiquetaCodigoUsuario.setFont(new Font("Arial", Font.BOLD, 12));
                 panelRegistro.add(etiquetaCodigoUsuario);
-
+             */
+              /*
                 campoCodigoUsuario = new JTextField();
                 campoCodigoUsuario.setBounds(30, 60, 200, 30);
                 campoCodigoUsuario.setFont(new Font("Arial", Font.PLAIN, 12));
                 panelRegistro.add(campoCodigoUsuario);
-
+             */
                 JLabel etiquetaCorreo = new JLabel();
                 etiquetaCorreo.setBounds(30, 100, 200, 30);
                 etiquetaCorreo.setText("Correo Electrónico:");
@@ -173,7 +174,9 @@ class Ventana extends JFrame {
                 botonRegistrar.addActionListener(new ActionListener() {
                     @Override
                     public void actionPerformed(ActionEvent e) {
+                        
                          codigoUsuario = generarCodigoUsuario(); // Generar el código de usuario
+                         System.out.println("Tu codigo: "+codigoUsuario);
                          correo = textoCorreo.getText();
                          String password = new String(contraseña.getPassword());
 

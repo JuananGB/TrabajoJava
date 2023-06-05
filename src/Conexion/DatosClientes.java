@@ -28,6 +28,8 @@ public class DatosClientes extends JFrame {
     JTextField areaTextoBorrar;
     JButton Modificar;
   
+    
+          
 
     private Connection conn = null;
     private String bd = "Concesionario";
@@ -369,5 +371,7 @@ public class DatosClientes extends JFrame {
 
         
     }
+
+
 }
 
